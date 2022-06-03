@@ -5,7 +5,7 @@
 - **Properties** : 
   - last update : 10 Sep 2017
 - **Main files** : 
-  - <play.htm>
+  - [play.htm](play.htm)
 - **For** : MechatronicBeing
 - **Modifications** :
   - download <https://github.com/Nurgak/Cube-engine/archive/refs/heads/master.zip>

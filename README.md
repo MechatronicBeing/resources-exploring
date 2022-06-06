@@ -1,4 +1,4 @@
-Free "public domain"-like licensed resources for SIMULATING.
+Free "public domain"-like licensed resources for EXPLORING.
 
 [cube-engine](programs/web/cube-engine/) : explore a cubic virtual world...
 

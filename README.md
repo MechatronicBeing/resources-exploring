@@ -1,6 +1,6 @@
 Free "public domain"-like licensed resources for EXPLORING.
 
-[cube-engine](programs/web/cube-engine/) : explore a cubic virtual world...
+[cube-engine](applications/web/cube-engine/) : explore a cubic virtual world...
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
